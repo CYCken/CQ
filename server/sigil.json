@@ -1,0 +1,145 @@
+[
+  { "name": "Not_set", "ename": "Not_set", "attribute": "Not_set" },
+  {
+    "name": "IC粒子",
+    "ename": "IC Particle",
+    "attribute": "物理穿透+1250，暴击率+7%"
+  },
+  {
+    "name": "PMK - IFCS",
+    "ename": "PMK - IFCS",
+    "attribute": "物理防御+1250，回避+10"
+  },
+  {
+    "name": "恶魔的头骨",
+    "ename": "Demonic Skull",
+    "attribute": "物理防御+1500"
+  },
+  {
+    "name": "PMK - NERA",
+    "ename": "PMK - NERA",
+    "attribute": "魔法防御+1250，回避+10"
+  },
+  {
+    "name": "新人的脊柱 - LEPRICA",
+    "ename": "Spine of Future Human - Replica",
+    "attribute": "魔法穿透+1500"
+  },
+  {
+    "name": "FMPBS",
+    "ename": "FMPBS",
+    "attribute": "魔法穿透+1250，暴击率+7%"
+  },
+  {
+    "name": "狂人之角",
+    "ename": "Horn of a Lunatic",
+    "attribute": "攻击力+800,最大体力+45000"
+  },
+  { "name": "VV核心", "ename": "VV Core", "attribute": "魔法防御+1500" },
+  {
+    "name": "泰伦特的盔甲",
+    "ename": "Tyrant's Boxers",
+    "attribute": "伤害减少量+10%,最大体力+45000"
+  },
+  {
+    "name": "彩虹的羽毛",
+    "ename": "Rainbow Feather",
+    "attribute": "物理穿透+1500"
+  },
+  {
+    "name": "凶神的形象",
+    "ename": "Form of an Ominous God",
+    "attribute": "魔法防御+1250，最大体力+35000"
+  },
+  {
+    "name": "被遗忘的古神触角",
+    "ename": "Caress of the Forgotten Old God",
+    "attribute": "魔法穿透+1000，命中+12"
+  },
+  {
+    "name": "薛伯粒子",
+    "ename": "Shaver Particle",
+    "attribute": "物理穿透+950，攻击力+1000"
+  },
+  {
+    "name": "否定型暗黑碎片",
+    "ename": "Indeterminate Darkness Fragment",
+    "attribute": "魔法穿透+950，攻击力+1000"
+  },
+  {
+    "name": "利莫里亚的护身符",
+    "ename": "Talisman of Lemuria",
+    "attribute": "物理防御+1000，伤害减少量+12%"
+  },
+  {
+    "name": "尸食教典仪",
+    "ename": "Gultes des Goules",
+    "attribute": "魔法防御+1000，伤害减少量+12%"
+  },
+  {
+    "name": "透视异界之眼",
+    "ename": "Eye That Gazes Beyond",
+    "attribute": "物理防御+1250，最大体力+35000"
+  },
+  {
+    "name": "破碎的不规则多面体",
+    "ename": "Fractured Trapezohedron",
+    "attribute": "物理穿透+1000，命中+12"
+  },
+  { "name": "吽", "ename": "Puddle", "attribute": "最大体力+60000" },
+  {
+    "name": "五丑牛钟",
+    "ename": "Ochu Bell",
+    "attribute": "物理防御+1500,回避+12"
+  },
+  {
+    "name": "神灵之胆",
+    "ename": "Spirit's Bear Gallbladder",
+    "attribute": "物理防御+1750"
+  },
+  {
+    "name": "黑虎领主",
+    "ename": "Black Tiger Bead",
+    "attribute": "魔法防御+1500,回避+12"
+  },
+  {
+    "name": "欺诈面具",
+    "ename": "Human Play Mask",
+    "attribute": "攻击力+900,最大体力+55000"
+  },
+  {
+    "name": "红花胭脂",
+    "ename": "Safflower Red",
+    "attribute": "魔法防御+1750"
+  },
+  {
+    "name": "太白之齿",
+    "ename": "Taebaek's Fang",
+    "attribute": "攻击力+1500"
+  },
+  {
+    "name": "靡靡之乐",
+    "ename": "Decadent Song",
+    "attribute": "伤害减少量+13%,最大体力+55000"
+  },
+  {
+    "name": "赤龙之须",
+    "ename": "Red Dragon's Beard",
+    "attribute": "物理穿透+1750"
+  },
+  {
+    "name": "四凶之核",
+    "ename": "Ominous Core",
+    "attribute": "物理穿透+1500,暴击+9%"
+  },
+  {
+    "name": "青龙宝珠",
+    "ename": "Blue Dragon Orb",
+    "attribute": "魔法穿透+1750"
+  },
+  {
+    "name": "黄金体验",
+    "ename": "Golden Experience",
+    "attribute": "魔法穿透+1500,暴击+9%"
+  }
+]
