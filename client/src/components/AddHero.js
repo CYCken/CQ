@@ -101,6 +101,7 @@ const AddHero = () => {
                 const { value } = event.target;
                 setOccupation(value);
               }}
+              placeholder="in english"
             />
           </Grid>
           <Grid item xs>

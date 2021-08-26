@@ -42,19 +42,20 @@ const Character = (props) => {
   const classes = useRowStyles();
 
   useEffect(() => {
-    if (hero.occupation === "warriors") {
-      setOccupation("劍士");
-    } else if (hero.occupation === "paladins") {
-      setOccupation("騎士");
-    } else if (hero.occupation === "archers") {
-      setOccupation("弓手");
-    } else if (hero.occupation === "hunters") {
-      setOccupation("獵人");
-    } else if (hero.occupation === "wizards") {
-      setOccupation("法師");
-    } else if (hero.occupation === "priests") {
-      setOccupation("祭司");
-    }
+    // if (hero.occupation === "warriors") {
+    //   setOccupation("劍士");
+    // } else if (hero.occupation === "paladins") {
+    //   setOccupation("騎士");
+    // } else if (hero.occupation === "archers") {
+    //   setOccupation("弓手");
+    // } else if (hero.occupation === "hunters") {
+    //   setOccupation("獵人");
+    // } else if (hero.occupation === "wizards") {
+    //   setOccupation("法師");
+    // } else if (hero.occupation === "priests") {
+    //   setOccupation("祭司");
+    // }
+    setOccupation(hero.occupation);
   }, [hero]);
 
   return (
